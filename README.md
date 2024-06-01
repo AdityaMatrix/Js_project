@@ -6,8 +6,10 @@
  CSS
  JS
 
-  # Features:
- Play-Pause Button
- Next-Previous Songs Button
- Listen to any part of the song you like
- Display of name of the song currently playing
+
+# Features
+Play-Pause Button: Allows you to play or pause the song.
+Next-Previous Songs Button: Navigate to the next or previous song.
+Seek Bar: Listen to any part of the song you like by using the seek bar.
+Song Display: Shows the name of the currently playing song.
+
